@@ -36,4 +36,4 @@ Update the relevant documentation and `docs/PROGRESS.md`. Add one `changelog.d/Y
 
 ## Git workflow
 
-Use short branches and focused pull requests. Commit messages are written in Portuguese (pt-BR): an imperative summary followed by a body covering what, why, how, expected behavior, and verification. Never include an @mention unless explicitly requested. See [AGENTS.md](AGENTS.md) for the complete rule.
+Use short branches and focused pull requests. Commit messages are written in English: an imperative summary followed by a body covering what, why, how, expected behavior, and verification. Never include an @mention unless explicitly requested. See [AGENTS.md](AGENTS.md) for the complete rule.
