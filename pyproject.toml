@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tesserakt"
+version = "0.0.0"
+description = "Research infrastructure for next-concept modeling"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = "MIT"
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "ruff>=0.12,<1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py312"

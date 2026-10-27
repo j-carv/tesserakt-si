@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this research project, please cite the original NCM paper as well."
+title: Tesserakt
+type: software
+authors:
+  - name: Tesserakt SI

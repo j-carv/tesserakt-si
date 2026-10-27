@@ -1,0 +1,7 @@
+* text=auto eol=lf
+# Only deliberately published artifacts in this directory use LFS.
+/releases/artifacts/** filter=lfs diff=lfs merge=lfs -text
+*.png binary
+*.jpg binary
+*.pdf binary
+graphify-out/graph.json merge=graphify
