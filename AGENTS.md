@@ -46,4 +46,4 @@ Agent definitions and skills are canonical under `.claude/` and copied to `.agen
 
 ## Commit messages
 
-Write commits in Portuguese (pt-BR). Use an imperative first line of at most 200 characters, then a blank line and a body explaining, in order: what was done, why, how it works, expected behavior, and how to test. Do not add mentions unless requested. If the reason is unclear, ask before committing.
+Write commits in English. Use an imperative first line of at most 200 characters, then a blank line and a body explaining, in order: what was done, why, how it works, expected behavior, and how to test. Do not add mentions unless requested. If the reason is unclear, ask before committing.
